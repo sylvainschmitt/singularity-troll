@@ -7,7 +7,9 @@ install.packages(c(
   'vroom', 
   'terra', 
   'foreach', 
-  'plyr'
+  'plyr',
+  'patchwork',
+  'zoo'
 ), repos = "https://cloud.r-project.org",
 dependencies = c('Depends', 'Imports', 'LinkingTo'))
 # rcontroll deps
@@ -33,4 +35,7 @@ install.packages(c(
 dependencies = c('Depends', 'Imports', 'LinkingTo'))
 # rcontroll V4
 devtools::install_github("sylvainschmitt/rcontroll", ref = "TROLLV4", 
+                         dependencies = c('Depends', 'Imports', 'LinkingTo'))
+# datatrollr
+devtools::install_github("sylvainschmitt/datatrollr",
                          dependencies = c('Depends', 'Imports', 'LinkingTo'))
