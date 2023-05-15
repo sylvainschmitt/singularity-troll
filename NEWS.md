@@ -1,3 +1,7 @@
+# Singularity-troll 0.0.3.9001
+
+- rm datatrollr but add REddyProc
+
 # Singularity-troll 0.0.2.9001
 
 - adding patchwork & datatrollr
