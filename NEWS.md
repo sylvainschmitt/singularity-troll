@@ -1,3 +1,8 @@
+# Singularity-troll 0.0.4.9001
+
+- adding for soil exp: gdalUtilities, sf, osmdata, nominatimlite, corrplot, ggtern
+- updating rcontroll because of a remaining exit
+
 # Singularity-troll 0.0.3.9001
 
 - rm datatrollr but add REddyProc

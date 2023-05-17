@@ -11,7 +11,13 @@ install.packages(c(
   'patchwork',
   'zoo',
   'REddyProc',
-  'ggfortify'
+  'ggfortify',
+  'gdalUtilities',
+  'sf',
+  'osmdata',
+  'nominatimlite',
+  'corrplot',
+  'ggtern'
 ), repos = "https://cloud.r-project.org",
 dependencies = c('Depends', 'Imports', 'LinkingTo'))
 # rcontroll deps
