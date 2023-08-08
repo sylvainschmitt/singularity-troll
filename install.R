@@ -17,7 +17,9 @@ install.packages(c(
   'osmdata',
   'nominatimlite',
   'corrplot',
-  'ggtern'
+  'ggtern',
+  'CDFt',
+  'ncdf4'
 ), repos = "https://cloud.r-project.org",
 dependencies = c('Depends', 'Imports', 'LinkingTo'))
 # rcontroll deps

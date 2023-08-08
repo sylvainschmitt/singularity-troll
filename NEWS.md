@@ -1,3 +1,7 @@
+# Singularity-troll 0.0.5
+
+- CDFt & ncdf4
+
 # Singularity-troll 0.0.4.9001
 
 - adding for soil exp: gdalUtilities, sf, osmdata, nominatimlite, corrplot, ggtern
